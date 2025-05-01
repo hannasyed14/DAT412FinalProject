@@ -34,6 +34,6 @@ Outputs:
 - 5 EDA plots to explore patterns in the data
 
 Note:
-This project was completed for DAT 412 and also ties into my summer internship goals with Bloomberg’s CISO team.
+This project was completed for DAT 412 final project. 
 
 Submitted: May 2, 2025
